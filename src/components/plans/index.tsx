@@ -13,7 +13,6 @@ export default component$(() => {
       <p class="mt-4 text-xl text-gray-400">
         Simple, transparent pricing for your business needs.
       </p>
-      <Space />
     </div>
 
     <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">

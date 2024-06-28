@@ -1,8 +1,10 @@
 import { component$ } from "@builder.io/qwik";
+import Nav from "../nav/nav";
 
 export default component$(() => {
     return (
       <section class="bg-gray-900 text-white bg-gradient-to-br from-indigo-500 to-black-400">
+        <Nav />
   <div class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
     <div class="mx-auto max-w-3xl text-center">
       <h1

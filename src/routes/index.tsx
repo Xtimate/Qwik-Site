@@ -4,12 +4,10 @@ import type { DocumentHead } from "@builder.io/qwik-city";
 import Hero from "../components/hero/index"
 import { FeaturesComponent } from "../components/features/index"
 import Plans from "~/components/plans/index";
-import Nav from "../components/nav/nav"
 
 export default component$(() => {
   return (
     <div>
-    <Nav />
     <Hero />
     <FeaturesComponent />
     <Plans />
