@@ -1,5 +1,4 @@
 import { component$ } from "@builder.io/qwik";
-import Space from "../space/index";
 
 export default component$(() => {
     return (
