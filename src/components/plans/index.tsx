@@ -7,6 +7,7 @@ export default component$(() => {
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center mb-12">
       <Space />
+      <Space />
       <h2 class="text-4xl font-extrabold text-white sm:text-5xl">
         Pricing Plans
       </h2>

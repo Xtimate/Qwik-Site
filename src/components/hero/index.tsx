@@ -24,7 +24,7 @@ export default component$(() => {
           class="block w-full rounded border border-blue-600 transition duration-1000 backdrop-blur-sm bg-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
           href="#"
         >
-          Get Started
+          View Plans
         </a>
 
         <a
@@ -35,7 +35,6 @@ export default component$(() => {
         </a>
       </div>
     </div>
-    <Space />
   </div>
 </section>
     )
