@@ -6,13 +6,14 @@ export default component$(() => {
 <section class="bg-gray-900 py-12">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center mb-12">
-      <Space />
+    <Space />
       <h2 class="text-4xl font-extrabold text-white sm:text-5xl">
         Pricing Plans
       </h2>
       <p class="mt-4 text-xl text-gray-400">
         Simple, transparent pricing for your business needs.
       </p>
+      <Space />
     </div>
 
     <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
