@@ -11,8 +11,8 @@ export default component$(() => {
     <div>
     <Nav />
     <Hero />
-      <FeaturesComponent />
-      <Plans />
+    <FeaturesComponent />
+    <Plans />
     </div>
   );
 });
