@@ -24,9 +24,9 @@ export default component$(() => {
               </a>
               <a
                 class="block w-full sm:w-auto px-12 py-3 text-sm font-medium text-white bg-transparent border border-blue-600 rounded transition duration-1000 hover:bg-blue-600 focus:outline-none focus:ring active:bg-blue-500"
-                href="#"
+                href="#features"
               >
-                Learn More
+                Features
               </a>
             </div>
           </div>
