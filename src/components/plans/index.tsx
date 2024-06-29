@@ -3,7 +3,7 @@ import Space from "../space/index";
 
 export default component$(() => {
     return (
-<section class="bg-gray-900 py-12">
+<section id="plans" class="bg-gray-900 py-12">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center mb-12">
     <Space />
