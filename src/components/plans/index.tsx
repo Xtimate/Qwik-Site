@@ -31,6 +31,10 @@ export default component$(() => {
                                     <span>{feature}</span>
                                 </li>
                             ))}
+                            <li class="flex items-center">
+                                    <img src="x.svg" class="h-6 w-6 text-green-500 mr-2" width="24" height="24" alt="check icon"/>
+                                    <span>SSH Acces</span>
+                            </li>
                         </ul>
                         <a href="https://billing.kittendev.xyz/basic" class="block w-full py-3 px-6 text-center rounded-md text-white font-medium bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600">
                             Choose Basic
@@ -54,6 +58,10 @@ export default component$(() => {
                                     <span>{feature}</span>
                                 </li>
                             ))}
+                            <li class="flex items-center">
+                                  <img src="x.svg" class="h-6 w-6 text-green-500 mr-2" width="24" height="24" alt="check icon"/>
+                                  <span>SSH Acces</span>
+                            </li>
                         </ul>
                         <a href="https://billing.kittendev.xyz/premium" class="block w-full py-3 px-6 text-center rounded-md text-white font-medium bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600">
                             Choose Premium
