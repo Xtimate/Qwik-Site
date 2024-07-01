@@ -4,11 +4,13 @@ import Hero from "../components/hero/index";
 import { FeaturesComponent } from "../components/features/index";
 import Plans from "~/components/plans/index";
 import Footer from "~/components/footer/index";
+import { AboutUsComponent } from "../components/about/index"
 
 export default component$(() => {
   return (
     <div>
       <Hero />
+      <AboutUsComponent />
       <FeaturesComponent />
       <Plans />
       <Footer />
