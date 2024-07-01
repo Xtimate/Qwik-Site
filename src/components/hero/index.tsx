@@ -16,16 +16,10 @@ export default component$(() => {
             </p>
 
             <div class="mt-8 flex flex-wrap justify-center gap-4">
-              <a
-                class="block w-full sm:w-auto px-12 py-3 text-sm font-medium text-white bg-blue-600 border border-blue-600 rounded transition duration-1000 backdrop-blur-sm hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75"
-                href="#plans"
-              >
+              <a class="block w-full sm:w-auto px-12 py-3 text-sm font-medium text-white bg-blue-600 border border-blue-600 rounded transition duration-1000 backdrop-blur-sm hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75" href="#plans">
                 View Plans
               </a>
-              <a
-                class="block w-full sm:w-auto px-12 py-3 text-sm font-medium text-white bg-transparent border border-blue-600 rounded transition duration-1000 hover:bg-blue-600 focus:outline-none focus:ring active:bg-blue-500"
-                href="https://billing.kittendev.xyz"
-              >
+              <a class="block w-full sm:w-auto px-12 py-3 text-sm font-medium text-white bg-transparent border border-blue-600 rounded transition duration-1000 hover:bg-blue-600 focus:outline-none focus:ring active:bg-blue-500" href="https://billing.kittendev.xyz">
                 Billing
               </a>
             </div>
